@@ -1,0 +1,17 @@
+    1  cd /
+    2  pwd
+    3  ls
+    4  mkdir darbi
+    5  cd `
+    6  cd ~
+    7  ;;pro;itipwu
+    8  cd..
+    9  ls
+   10  mkdir Documents/
+   11  mkdir darbi
+   12  ls
+   13  history
+   14  pwd
+   15  darbi11
+   16  history
+   17  history > history.txt
