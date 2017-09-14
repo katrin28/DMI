@@ -1,5 +1,4 @@
-    1  cd /
-    2  pwd
+    
     3  ls
     4  mkdir darbi
     5  cd `
@@ -15,3 +14,37 @@
    15  darbi11
    16  history
    17  history > history.txt
+   18  ls
+   19  cat history.txt
+   20  firefox
+   21  ls
+   22  mv history.txt darbi/
+   23  cd darbi/
+   24  ls
+   25  cat history.txt
+   26  git init
+   27  git add .
+   28  git config --global user.email katrin983@inbox.lv
+   29  ls
+   30  gitcommit -m "20170914_15_55"
+   31  git commit -m "20170914_15_55"
+   32  hostory.txt
+   33  history.txt
+   34  git remote addoriginal https://github.com/katrin28/DMI.git
+   35  git remote add original https://github.com/katrin28/DMI.git
+   36  git push origin master
+   37  git remote add original https://github.com/katrin28/DMI.git
+   38  git push origin master
+   39  git config --global user.email katrin983@inbox.lv
+   40  git remote add original https://github.com/katrin28/DMI.git
+   41  git push origin master
+   42  ping github.com
+   43  rm -rf .git/
+   44  git init
+   45  git add .
+   46  git config --global user.email katrin983@inbox.lv
+   47  git commit -m "20170914_15_55"
+   48* 
+   49  git push origin master
+   50  git push original master
+   51  history > history.txt
