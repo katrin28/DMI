@@ -1,5 +1,6 @@
 #!/bin/bash
+git config --global user.email katrin983@inbox.lv
 git add .
-git commit -m "DMI"
+git commit -m "20170928_18_10"
 git push origin master
 

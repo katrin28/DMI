@@ -1,0 +1,1000 @@
+  962  git add
+  963  git config
+  964  git commit -m "26710235_11_40"
+  965  firefox &
+  966  uname-r
+  967  ls
+  968  cat /etc/*-release
+  969  documents
+  970  pwd documents
+  971  pwd
+  972  Docu
+  973  Documents
+  974  who
+  975  ls
+  976  cd documents
+  977  pwd
+  978  lsb_release
+  979  echo $0
+  980  pwd
+  981  cd -
+  982  cd +
+  983  cs mape8
+  984  cd mape8
+  985  cat
+  986  /home cd
+  987  ls
+  988  documets cd ..
+  989  cd ..
+  990  documents cd
+  991  Documents cd
+  992  cd ..
+  993  /home
+  994  echo #0
+  995  pwd
+  996  ls
+  997  cd ..
+  998  who
+  999  uname -r
+ 1000  documents cd
+ 1001  cat/etc/*-release
+ 1002  pwd etc
+ 1003  etc pwd
+ 1004  cd..
+ 1005  cd ...
+ 1006  cd ..
+ 1007  cd -
+ 1008  pwd
+ 1009  ls
+ 1010  Desktop cd
+ 1011  cd Desktop
+ 1012  cd .
+ 1013  cd ..
+ 1014  pwd
+ 1015  who
+ 1016  ls
+ 1017  ls -l
+ 1018  ls -a
+ 1019  ls
+ 1020  cd Documents
+ 1021  cd documents
+ 1022  pwd
+ 1023  ls
+ 1024  ls -la
+ 1025  cd ..
+ 1026  pwd
+ 1027  cd ..
+ 1028  pwd
+ 1029  cd ..
+ 1030  pwd
+ 1031  ls
+ 1032  pwd
+ 1033  cd ..
+ 1034  cd~
+ 1035  cd
+ 1036  cd ~
+ 1037  pwd
+ 1038  mkdir darbi
+ 1039  mkdir darbi13
+ 1040  ls -l
+ 1041  cd darbi13
+ 1042  history
+ 1043  history > history.txt
+ 1044  ls -la
+ 1045  cat history.txt
+ 1046  chrome
+ 1047  chromerom
+ 1048  chromium
+ 1049  chromium-browser 
+ 1050  cd home
+ 1051  cd
+ 1052  pwd
+ 1053  ls - l
+ 1054  ls -l
+ 1055  cd darbi13
+ 1056  ls -l
+ 1057  git init
+ 1058  git cogit config --global user.email rastamaha1998@gmail.com
+ 1059  git commit -m "20170913_14_00"
+ 1060  git add
+ 1061  git add .
+ 1062  git commit -m "20170913_14_00"
+ 1063  ls -la
+ 1064  remote add origin https://gitjub.com/OlegsBrencs/DMI
+ 1065  remote add origin https://github.com/OlegsBrencs/DMI
+ 1066  remote add origin https://github.com/OlegsBrencs/DMI.git
+ 1067  git remote add origin https://github.com/OlegsBrencs/DMI.git
+ 1068  git push -u origin master
+ 1069  history
+ 1070  pwd
+ 1071  mkdir apakshdarbi
+ 1072  ls -l
+ 1073  cd apakshdarbi
+ 1074  ls -la
+ 1075  history >vesture.txt
+ 1076  ls -la
+ 1077  cd ..
+ 1078  pwd
+ 1079  ls -l
+ 1080  rmdir apakshdarbi
+ 1081  man rmdir
+ 1082  rm apakshdarbi
+ 1083  rm -rf  apakshdari/
+ 1084  ls -la
+ 1085  cd /
+ 1086  ls
+ 1087  mkdir apakshdarbi
+ 1088  rm dev
+ 1089  rm -rf dev
+ 1090  rm dev1
+ 1091  cd
+ 1092  pwd
+ 1093  ls -l
+ 1094  cd darbi13
+ 1095  pwd
+ 1096  echo tecmint is a community of Linux Nerds
+ 1097  Tecmint is a community of Linux Nerds
+ 1098  x=10
+ 1099  echo The value of variable x = x
+ 1100  x=10
+ 1101  echo The value of variable x = $x
+ 1102  echo -e "tecmint \ba \bcommunity \bof \bLinux \bNerds"
+ 1103  echo -e "tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+ 1104  echo -e "tecmint \tis \ta \tcommunity \tof \tLinux \tNerds
+ 1105  echo -e "tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1106  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1107  cd ..
+ 1108  pwd
+ 1109  ls -la
+ 1110  cd darbi13
+ 1111  pwd
+ 1112  ls -la
+ 1113  git init
+ 1114  git add
+ 1115  ls -la
+ 1116  git config --global user.name rastamaha1998@gmail.com
+ 1117  ls -la
+ 1118  git config --global user.email rastamaha1998@gmail.com
+ 1119  ls la
+ 1120  chromium -browser
+ 1121  cat a.txt
+ 1122  cat b.txt
+ 1123  cat c.txt
+ 1124  man ls >ls_komandas_apraksts
+ 1125  ls -l
+ 1126  cat ls_komandas_apraksts
+ 1127  cat a.txt > d.txt
+ 1128  ls -l
+ 1129  cat b.txt > d.txt
+ 1130  ls -l
+ 1131  cat a.txt > d.txt
+ 1132  cat b.txt >> d.txt
+ 1133  ls -l
+ 1134  cat d.txt
+ 1135  cp d.txt dd.txt
+ 1136  ls -l
+ 1137  cp d.txt dd.txt
+ 1138  lf -l
+ 1139  ls -l
+ 1140  cp d.txt ddd.txt >interese.txt
+ 1141  ls -l
+ 1142  d.txt ../cl.txt
+ 1143  pwd
+ 1144  cd ..
+ 1145  pwd
+ 1146  cp c1.txt darbi/c2.txt
+ 1147  cd darbi13
+ 1148  cd /
+ 1149  mv ~/darbi13/ls_komandas_apraksts ~/
+ 1150  cd
+ 1151  ls -l
+ 1152  cd darbi13
+ 1153  ls -l
+ 1154  pwd
+ 1155  cd darbi13
+ 1156  ls -la
+ 1157  git add .
+ 1158  ls -la
+ 1159  history > history.txt
+ 1160  git add .
+ 1161  git commit -m "20170913_1606"
+ 1162  git push master origin
+ 1163  git push origin master
+ 1164  echo Tecmint is a community of Linux Nerds
+ 1165  x=10
+ 1166  echo The value of variable x =$x
+ 1167  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+ 1168  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \bNerds"
+ 1169  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+ 1170  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1171  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+ 1172  echo -e "\vTecmint \cis \va \vcommunity \vof \vLinux \vNerds"
+ 1173  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1174  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+ 1175  echo -e "Tecmint \ris a community of Linux Nerds"
+ 1176  echo -e "tecmint \ris a community of Linux Nerds"
+ 1177  echo *
+ 1178  ls
+ 1179  echo *.jpeg
+ 1180  echo *.txt
+ 1181  echo "teksts"
+ 1182  echo "teksts" >
+ 1183  echo "teksts" > a.txt
+ 1184  echo "Teksts" > a.txt
+ 1185  ls -la
+ 1186  cat a.txt
+ 1187  echo "TekstsTeksts" > b.txt
+ 1188  ls -l
+ 1189  chromium -browser
+ 1190  firfox &
+ 1191  help
+ 1192  test
+ 1193  cat
+ 1194  pwd
+ 1195  cd
+ 1196  man
+ 1197  echo
+ 1198  nano
+ 1199  1
+ 1200  echo $0
+ 1201  who
+ 1202  ls -la
+ 1203  cd documents/
+ 1204  ls
+ 1205  cd..
+ 1206  cd ..
+ 1207  pwd
+ 1208  cd
+ 1209  pwd
+ 1210  mddir darbi
+ 1211  mkdir darbi
+ 1212  cd darbi
+ 1213  history
+ 1214  history > History.txt
+ 1215  ls -l
+ 1216  cat history.txt
+ 1217  cat HISTORY.TXT
+ 1218  cat History.txt
+ 1219  GIT INIT
+ 1220  git init
+ 1221  git add .
+ 1222  git cofig --global user.email artamoons@gmail.com
+ 1223  git config --global user.email artamoons@gmail.com
+ 1224  git commit -m "20170914_09_30"
+ 1225  git remote add orgin https://github.com/ZIRKOFF/DMI.git
+ 1226  git push -u orgin master
+ 1227  mv aaa
+ 1228  mv aaa xxx
+ 1229  q
+ 1230  cat rtu
+ 1231  pwd
+ 1232  history
+ 1233  history > History.txt
+ 1234  ls -l
+ 1235  nano History.txt
+ 1236  ls -l
+ 1237  cat History.txt
+ 1238  git add .
+ 1239  git commit -m "20170914_09_500"
+ 1240  git push -u orgin master
+ 1241  firefox &
+ 1242  whoami
+ 1243  echo
+ 1244  cat
+ 1245  darbi$ git init
+ 1246  pwd
+ 1247  cd
+ 1248  pwd
+ 1249  ls
+ 1250  cd darbi1
+ 1251  darbi1$ ls
+ 1252  darbi1$ git init
+ 1253  pwd
+ 1254  ls
+ 1255  history | grep mkdir
+ 1256  mkdir darbi
+ 1257  mkdir darbi1000
+ 1258  ls
+ 1259  cd darbi1000
+ 1260  history
+ 1261  history > history.texta
+ 1262  ls
+ 1263  cat history.texta 
+ 1264  git init
+ 1265  git add .
+ 1266  git config --global user.email san4es98@inbox.lv
+ 1267  git commit -m "20170914_16_15"
+ 1268  git remote add origin https://github.com/Butkevics/DMI.git
+ 1269  git push origin master
+ 1270  history
+ 1271  cat history.txt
+ 1272  history > history.txt
+ 1273  ls-l
+ 1274  history > history.txt
+ 1275  ls -l
+ 1276  nano history.txt
+ 1277  ls
+ 1278  ls -l
+ 1279  cat history.txt
+ 1280  git commit -m "20170914_16_45"
+ 1281  git add .
+ 1282  git commit -m "20170914_16_45"
+ 1283  git pusg origin master
+ 1284  git push origin master
+ 1285  man echo 
+ 1286  man echo
+ 1287  echo Tecmint is a community of Linux Nerds
+ 1288  x=10
+ 1289  echo The value of variable x = $x
+ 1290  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+ 1291  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+ 1292  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1293  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+ 1294  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1295  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+ 1296  echo -e "Tecmint \ris a community of Linux Nerds"
+ 1297  echo -e "Tecmint is a community \cof Linux Nerds"
+ 1298  echo -n "Tecmint is a community of Linux Nerds"
+ 1299  echo -e "Tecmint is a community of \aLinux Nerds"
+ 1300  echo *
+ 1301  echo *.jpeg
+ 1302  echo "Test Page" > testpage
+ 1303  cat testpage
+ 1304  ls -l
+ 1305  pwd
+ 1306  cp history.txt a.txt
+ 1307  ls -l
+ 1308  cp history.txt a.txt
+ 1309  cp history.txt ~/al.txt
+ 1310  cp history.txt /home/user/a2.txt
+ 1311  cp history.txt ../a3.txt
+ 1312  ls
+ 1313  cd ..
+ 1314  ls
+ 1315  cd ?
+ 1316  cd /
+ 1317  pwd
+ 1318  mv /home/user/*.txt ~/darbi/
+ 1319  cd
+ 1320  ls
+ 1321  cd darbi
+ 1322  ls
+ 1323  pwd
+ 1324  mkdir apakshdarbi
+ 1325  mkdir apaksdari
+ 1326  pwd
+ 1327  mkdir apakshdari
+ 1328  ls -l
+ 1329  mv a*.txt ./apakshdari/
+ 1330  ls
+ 1331  history.txt
+ 1332  rmdir apakshdari
+ 1333  man rmdir
+ 1334  rm apakshdari/
+ 1335  rm -r apakshdari/
+ 1336  ls
+ 1337  less history.txt
+ 1338  nano
+ 1339  pwd
+ 1340  ls -la
+ 1341  history > history.txt
+ 1342  ls -la
+ 1343  git add
+ 1344  git add .
+ 1345  git commit -m "20170914_17_50"
+ 1346  git push origin master
+ 1347  Butkevics
+ 1348  git push origin master
+ 1349  git add .
+ 1350  git commit -m "20170914_17_50"
+ 1351  git push origin master
+ 1352  history | grep ori
+ 1353  ls -la
+ 1354  git add .
+ 1355  git commit -m "20170914_17_50"
+ 1356  git push origin master
+ 1357  rm -rf .git/
+ 1358  git init
+ 1359  git add .
+ 1360  git commit -m "20170914_17_50"
+ 1361  git config --global user.email san4es98@inbox.lv
+ 1362  git remote add origin https://github.com/Butkevics/DMI.git
+ 1363  git push origin master
+ 1364  git push
+ 1365  git pull
+ 1366  git pull origin
+ 1367  git pull origin master
+ 1368  git branch --set-upstream master origin/<branch>
+ 1369  git branch --set-upstream master origin/master
+ 1370  git branch --set-upstream master origin/master1
+ 1371  ls -la
+ 1372  mv *.t apaksdari/
+ 1373  mv *.t* apaksdari/
+ 1374  ls -la
+ 1375  rm -rf .git/
+ 1376  rm njbh 
+ 1377  cd apakshdarbi/
+ 1378  ls
+ 1379  cd ..
+ 1380  rm apakshdarbi/
+ 1381  rm -r apakshdarbi/
+ 1382  ls -la
+ 1383  git clone https://github.com/Butkevics/DMI.git
+ 1384  ls -la
+ 1385  cd DMI/
+ 1386  ls -la
+ 1387  mv ../apaksdari/*.t*
+ 1388  mv ../apaksdari/*.t* ./
+ 1389  ls -la
+ 1390  git add .
+ 1391  git commit -m "20170914_18_10"
+ 1392  git push origin master
+ 1393  exit
+ 1394  man pwd
+ 1395  cat /etc/*-release
+ 1396  echo $8
+ 1397  echo $0
+ 1398  sh
+ 1399  echo $0
+ 1400  sh
+ 1401  pwd
+ 1402  whoami
+ 1403  sh
+ 1404  who
+ 1405  ls
+ 1406  sh
+ 1407  ls
+ 1408  ls -l
+ 1409  ls
+ 1410  cs Documents $ pwd
+ 1411  ls -la
+ 1412  pwd
+ 1413  cd /home/user
+ 1414  pwd
+ 1415  cd /
+ 1416  cd ~
+ 1417  pwd
+ 1418  cd /
+ 1419  pwd
+ 1420  ls
+ 1421  mkdir
+ 1422  ls
+ 1423  mkdir darbi
+ 1424  mkdir darbi100
+ 1425  history
+ 1426  darbi$ history
+ 1427  darbi$ history > history.txt
+ 1428  darbi$ cat
+ 1429  chromium-browser
+ 1430  exit
+ 1431  firefox
+ 1432  exit
+ 1433  ssh x171REB123@
+ 1434  history
+ 1435  exit 
+ 1436  ssh_x171REB123@
+ 1437  ssh x171REB123@
+ 1438  213.175.92.22
+ 1439  ssh x171REB123@
+ 1440  213.175.92.22
+ 1441  ssh-X x171REB168@213.175.92.22
+ 1442  ssh -X x171REB168@213.175.92.22
+ 1443  ls- l
+ 1444  git download
+ 1445  git download sk
+ 1446  whereis ls
+ 1447  cat /bin ls
+ 1448  cat /binls
+ 1449  cat /bin/ls
+ 1450  /bin/ls
+ 1451  git download sk
+ 1452  tmp guset
+ 1453  tmp guest
+ 1454  mkdir darbi
+ 1455  cd darbi/
+ 1456  nano git-upload
+ 1457  ls -l
+ 1458  rm -rf DMI
+ 1459  git-download
+ 1460  PATH=$PATH:~/DMI
+ 1461  mv
+ 1462  mv --help
+ 1463  ls
+ 1464  ls -l
+ 1465  ls
+ 1466  nano git-download.sh
+ 1467  ls -l
+ 1468  cat git-download.sh
+ 1469  git-download
+ 1470  ls
+ 1471  echo $PATH
+ 1472  whareis ls
+ 1473  whereis ls
+ 1474  ls -l
+ 1475  ls -l /bin/ls
+ 1476  cat /bin/ls
+ 1477  ls -l
+ 1478  pwd
+ 1479  git-download
+ 1480  ls
+ 1481  pwd
+ 1482  PATH=$PATH:/home/user
+ 1483  echo $PATH
+ 1484  git-download.sh
+ 1485  ls -l git-download.sh
+ 1486  ls -l /bin/ls
+ 1487  chmod 744 git-download.sh
+ 1488  ls -l git-download.sh
+ 1489  git-download
+ 1490  git-download.sh 
+ 1491  ls -l
+ 1492  git-download
+ 1493  ls
+ 1494  mv git-download.sh git-download
+ 1495  ls -l
+ 1496  git-download 
+ 1497  ls -l
+ 1498  cd DMI
+ 1499  ls -l
+ 1500  ls -la
+ 1501  mv 
+ 1502  ls -l
+ 1503  pwd
+ 1504  ls
+ 1505  mv ~/git-download ./
+ 1506  ls -l
+ 1507  echo $PATH
+ 1508  PATH=$PATH:~/DMI
+ 1509  git-download 
+ 1510  ls -l
+ 1511  rm -rf DMI/
+ 1512  ls -l
+ 1513  nano git-upload
+ 1514  history > history_20170920.txt
+ 1515  ls -l
+ 1516  git-upload
+ 1517  chmod 744 git-upload 
+ 1518  ls -l
+ 1519  git-upload
+ 1520  echo $PATH
+ 1521  nano git-upload 
+ 1522  nano_history200170920.txt
+ 1523  nano history_20170920.txt 
+ 1524  git-upload
+ 1525  chromium 
+ 1526  firefox
+ 1527  pwd
+ 1528  ls -l
+ 1529  pwd
+ 1530  ls -l
+ 1531  nano
+ 1532  ls -l
+ 1533  cat git-download.sh
+ 1534  whereis ls
+ 1535  ls -l /bin/ls
+ 1536  /bin/ls
+ 1537  echo $PATH
+ 1538  PATH=$PATH:~
+ 1539  echo $PATH
+ 1540  git-download.sh
+ 1541  echo $PATH
+ 1542  ls -l
+ 1543  git-download.sh
+ 1544  ls -lt
+ 1545  mv git-downloud.sh git-download.sh 
+ 1546  git-download.sh
+ 1547  whereis ls
+ 1548  ls -l /bin/ls
+ 1549  git-download.sh
+ 1550  whereis ls
+ 1551  ls -l /bin/ls
+ 1552  ls -l git-download.sh
+ 1553  chmod 744 git-download.sh
+ 1554  ls -l git-download.sh
+ 1555  ls -l
+ 1556  git-download.sh
+ 1557  nano git-download.sh~
+ 1558  nano git-download.sh
+ 1559  git-download.sh
+ 1560  rm -rf DMI
+ 1561  git-download.sh
+ 1562  ls -l
+ 1563  cd DMI
+ 1564  rm git*
+ 1565  ls -l
+ 1566  pwd
+ 1567  ls -l
+ 1568  mv ../git-download.sh ./
+ 1569  ls -l
+ 1570  ls
+ 1571  mv git-download.sh git-download.sh 
+ 1572  ls -l
+ 1573  git-download
+ 1574  PATH=$PATH:~/DMI
+ 1575  git-download
+ 1576  PATH=$PATH:~/DMI
+ 1577  git-download
+ 1578  PATH=$PATH:~/DMI
+ 1579  ls -l
+ 1580  rm -rf DMI
+ 1581  rm -rf DMI/
+ 1582  ls -l
+ 1583  nano git-upload
+ 1584  ls -l
+ 1585  ls -la
+ 1586  git-upload
+ 1587  chmod 744 git-upload
+ 1588  ls -la
+ 1589  ls -l
+ 1590  git-upload
+ 1591  nano git upload
+ 1592  firefox &
+ 1593  firefox&
+ 1594  ssh -x x171REB168@213.175.92.22
+ 1595  ssh -x x171REB168@213.175.92.22
+ 1596  ssh x  171REB183
+ 1597  ssh x171REB183
+ 1598  ssh x171REB183@213.175.92.4
+ 1599  ssh x171REB183@213.157.92.22
+ 1600  ssh x171REB183@213.175.92.22
+ 1601  ssh -X x1753REB1833@213.175.92.22
+ 1602  ssh -X x175RE183@213.175.92.22
+ 1603  ssh -X x175REB183@213.175.92.22
+ 1604  ssh -X x171REB183@213.175.92.22
+ 1605  echo $$
+ 1606  nano shell_programming. sh
+ 1607  nano shell_programming.sh
+ 1608  firefox
+ 1609  ls -l DMI
+ 1610  rm -rf DMI
+ 1611  mkdir DMI
+ 1612  ls
+ 1613  cd DMI
+ 1614  ls -la
+ 1615  mainiigais=10
+ 1616  echo $mainiigais
+ 1617  echo $mainigais
+ 1618  mainiigais_____=20
+ 1619  $mainiigais_____
+ 1620  echo $mainiigais_____
+ 1621  pwd
+ 1622  nano shell_programming.sh
+ 1623  ls -la
+ 1624  chmod 744 shell_programming.sh
+ 1625  ls -la
+ 1626  chmod 744 shell_programming.shx
+ 1627  cat shell_programming.shx
+ 1628  nano shell_programming.sh
+ 1629  ls -l
+ 1630  git init
+ 1631  git add .
+ 1632  history > history_20170927 .txt
+ 1633  pwd
+ 1634  nano shell_programming.shx
+ 1635  nano shell_programming.sh
+ 1636  $echo 0
+ 1637  echo 0
+ 1638  cat shell_programming.sh
+ 1639  ls -ls
+ 1640  git clone https://github.com/OlegsBrencs/DMI.git
+ 1641  rm -rf DMI
+ 1642  git clone https://github.com/OlegsBrencs/DMI.git
+ 1643  ls -l
+ 1644  cd DMI
+ 1645  ls -la
+ 1646  _ALI
+ 1647  variable_name=variable_value
+ 1648  NAME="Zara Ali"
+ 1649  VAR1="Zara Ali
+ 1650  cd shell
+ 1651  variable_name=variable_value
+ 1652  NAME="Zara Ali"
+ 1653  VAR1="Zara Ali"
+ 1654  VAR2=100
+ 1655  #!/bin/sh
+ 1656  NAME="Zara Ali"
+ 1657  echo $NAME
+ 1658  #!/bin/sh
+ 1659  NAME="Zara Ali"
+ 1660  readonly NAME
+ 1661  NAME="Qadiri"
+ 1662  /bin/sh: NAME: This variable is read only.
+ 1663  unset variable_name
+ 1664  #!/bin/sh
+ 1665  NAME="Zara Ali"
+ 1666  unset NAME
+ 1667  echo $NAME
+ 1668  name="Vards uzvards"
+ 1669  NAME="Vards Uzvards"
+ 1670  mainigais_1=10
+ 1671  echo $mainigais_1
+ 1672  1_mainiigais_1=20
+ 1673  mainigais_2_sdhfhsdgjsdag=20
+ 1674  echo mainigais_2_sdhfhsdgjsdag=20
+ 1675  nano
+ 1676  nano shell_examples.sh
+ 1677  cat shell_examples.sh 
+ 1678  pwd
+ 1679  PATH=$PATH:~/DMI
+ 1680  echo $PATH
+ 1681  shell_examples/sh
+ 1682  shell_examples.sh
+ 1683  chmod 744 shell_examples.sh 
+ 1684  ls -la
+ 1685  shell_examples.sh
+ 1686  ls -la
+ 1687  nano shell_examples.sh 
+ 1688  shell_examples.sh
+ 1689  cat shell_examples.sh 
+ 1690  nano shell_examples.sh 
+ 1691  ls -la
+ 1692  cat shell_examples.sh 
+ 1693  shell_examples.sh 
+ 1694  nano shell_examples.sh 
+ 1695  sh
+ 1696  ls -la
+ 1697  shell_examples.sh
+ 1698  nano shell_examples.sh
+ 1699  shell_examples.sh
+ 1700  history > history_20170927.txt
+ 1701  ls -la
+ 1702  nano git-upload
+ 1703  git upload
+ 1704  git-upload
+ 1705  ls -la
+ 1706  echo $PATH
+ 1707  pwd
+ 1708  PATH=$PATH:~/DMI
+ 1709  echo $PATH
+ 1710  git-upload
+ 1711  ls -la
+ 1712  pwd
+ 1713  echo $0
+ 1714  echo $#
+ 1715  echo $*
+ 1716  echo $@
+ 1717  echo $?0
+ 1718  echo $?
+ 1719  echo $!
+ 1720  nano shell_examples.sh 
+ 1721  shell_examples.sh 
+ 1722  cat shell_examples.sh
+ 1723  shell_examples.sh 
+ 1724  echo $0
+ 1725  nano shell_examples.sh 
+ 1726  shell_examples.sh 
+ 1727  nano shell_examples.sh 
+ 1728  shell_examples.sh  arg1
+ 1729  shell_examples.sh  arg1 arg2
+ 1730  shell_examples.sh  arg1 arg2 arg3
+ 1731  nano shell_examples.sh 
+ 1732  shell_examples.sh  arg1 arg2 arg3
+ 1733  nano shell_examples.sh 
+ 1734  shell_examples.sh  arg1 arg2 arg3
+ 1735  nano shell_examples.sh 
+ 1736  shell_examples.sh  arg1 arg2 arg3
+ 1737  nano shell_examples.sh 
+ 1738  shell_examples.sh  arg1 arg2 arg3
+ 1739  nano shell_examples.sh 
+ 1740  shell_examples.sh  arg1 arg2 arg3
+ 1741  nano shell_examples.sh 
+ 1742  nao
+ 1743  nano
+ 1744  shell_examples.sh  arg1 arg2 arg3
+ 1745  nano
+ 1746  shell_examples.sh  arg1 arg2 arg3
+ 1747  nano shell_examples.sh 
+ 1748  shell_examples.sh  arg1 arg2 arg3
+ 1749  nano shell_examples.sh 
+ 1750  shell_examples.sh  arg1 arg2 arg3
+ 1751  nano shell_examples.sh 
+ 1752  shell_examples.sh  arg1 arg2 arg3
+ 1753  nano shell_examples.sh 
+ 1754  shell_examples.sh  arg1 arg2 arg3
+ 1755  nano shell_examples.sh 
+ 1756  shell_examples.sh  arg1 arg2 arg3
+ 1757  nano shell_examples.sh 
+ 1758  shell_examples.sh  arg1 arg2 arg3
+ 1759  shell_examples.sh 
+ 1760  shell_examples.sh arg1
+ 1761  nano shell_examples.sh 
+ 1762  shell_examples.sh arg1
+ 1763  shell_examples.sh arg1 arg2
+ 1764  nano shell_examples.sh 
+ 1765  shell_examples.sh arg1 arg2
+ 1766  nano shell_examples.sh 
+ 1767  shell_examples.sh arg1 arg2
+ 1768  nano shell_examples.sh 
+ 1769  shell_examples.sh arg1 arg2
+ 1770  nano shell_examples.sh 
+ 1771  shell_examples.sh arg1 arg2
+ 1772  nano shell_examples.sh 
+ 1773  git-upload
+ 1774  nano shell_examples.sh 
+ 1775  -ls
+ 1776  -la
+ 1777  ls -l
+ 1778  firefox &
+ 1779  rm -& rf dmi
+ 1780  git clone https://github.com/AnnaMilana/DMI.git
+ 1781  rm -rf DMI
+ 1782  git clone https://github.com/AnnaMilana/DMI.git
+ 1783  ls -l
+ 1784  cd DMI
+ 1785  ls -l
+ 1786  nano
+ 1787  cat shell_examples.sh
+ 1788  pwd
+ 1789  ~/2017_2018/DMI/shell_examples.sh
+ 1790  home/user/DMI/shell_examples.sh
+ 1791  pwd
+ 1792  /home/user/DMI/shell_examples.sh
+ 1793  ~/DMI/shell_examples.sh
+ 1794  .I/shell_examples.sh
+ 1795  ./shell_examples.sh
+ 1796  ls -la
+ 1797  chmod 744 shell_examples.sh
+ 1798  ls -la
+ 1799  ls
+ 1800  ls -la
+ 1801  ./shell_examples.sh
+ 1802  cat shell_examples.sh
+ 1803  nano shell_examples.sh
+ 1804  cat shell_examples.sh
+ 1805  ./shell_examples.sh
+ 1806  nano shell_examples.sh
+ 1807  ./shell_examples.sh
+ 1808  nano shell_examples.sh
+ 1809  ./shell_examples.sh
+ 1810  nano shell_examples.sh
+ 1811  ./shell_examples.sh
+ 1812  cat shell_examples.sh
+ 1813  nano shell_examples.sh
+ 1814  echo $0
+ 1815  nano shell_examples.sh
+ 1816  echo $0
+ 1817  ./shell_examples.sh
+ 1818  $#
+ 1819  $n
+ 1820  echo $#
+ 1821  echo $n
+ 1822  nano shell_examples.sh
+ 1823  ./shell_examples.sh
+ 1824  ./shell_examples.sh arg1
+ 1825  ./shell_examples.sh arg2
+ 1826  ./shell_examples.sh arg1 arg2
+ 1827  ./shell_examples.sh arg1 arg2 arg3
+ 1828  nano shell_examples.sh
+ 1829  ./shell_examples.sh
+ 1830  nano shell_examples.sh
+ 1831  ./shell_examples.sh
+ 1832  nano shell_examples.sh
+ 1833  ./shell_examples.sh
+ 1834  nano git-upload
+ 1835  history > history_20170928.txt
+ 1836  ls -l
+ 1837  ./git-upload
+ 1838  ls -la
+ 1839  rm -rf .git
+ 1840  ls -la
+ 1841  git init
+ 1842  git clone https://github.com/ZIRKOFF/DMI.git
+ 1843  ls -la
+ 1844  mv * DMI/
+ 1845  ls -la
+ 1846  cd DMI/
+ 1847  ls -la
+ 1848  chmod 744 git-upload 
+ 1849  ls -la
+ 1850  nano git-upload 
+ 1851  ls -la
+ 1852  ./git-upload 
+ 1853  firefox
+ 1854  git clone https://github.com/katrin28/DMI.git
+ 1855  rm -rf DMI
+ 1856  git clone https://github.com/katrin28/DMI.git
+ 1857  ls -l
+ 1858  ls -la
+ 1859  firefox
+ 1860  nano
+ 1861  mainigais=10
+ 1862  echo $mainigais
+ 1863  temp$ 1_mainigais
+ 1864  mainigais_1=30
+ 1865  echo $1_mainigais
+ 1866  temp$
+ 1867  echo $mainigais_1
+ 1868  nano shell_exple.sh
+ 1869  ls -la
+ 1870  cat shell_exple.sh
+ 1871  NAME="Vārds Uzvārds"
+ 1872  echo $NAME
+ 1873  shell_exple.sh
+ 1874  chmod 744 shell_exple.sh
+ 1875  ls -la
+ 1876  shell_exple.sh
+ 1877  echo $PATH
+ 1878  pwd
+ 1879  /home/user/2017_2018_00/temp/shell_exple.sh
+ 1880  pwd
+ 1881  /home/user/DMI/temp/shell_exple.sh
+ 1882  pwd
+ 1883  mv shell_exple.sh DMI/
+ 1884  cd DMI/
+ 1885  ls -la
+ 1886  pwd
+ 1887  /home/user/DMI/shell_exple.sh
+ 1888  ~/2017_2018_00/temp/shell_exple.sh
+ 1889  ~/DMI/shell_exple.sh
+ 1890  ./shell_exple.sh
+ 1891  nano shell_exple.sh
+ 1892  ./shell_exple.sh
+ 1893  cat ./shell_exple.sh
+ 1894  nano shell_exple.sh
+ 1895  ./shell_exple.sh
+ 1896  cat ./shell_exple.sh
+ 1897  nano shell_exple.sh
+ 1898  cat ./shell_exple.sh
+ 1899  ./shell_exple.sh
+ 1900  ls
+ 1901  $0
+ 1902  history 
+ 1903  nano shell_exple.sh
+ 1904  echo $0
+ 1905  ./shell_exple.sh
+ 1906  nano shell_exple.sh
+ 1907  ./shell_exple.sh
+ 1908  nano shell_exple.sh
+ 1909  ./shell_exple.sh
+ 1910  nano shell_exple.sh
+ 1911  ./shell_exple.sh arg1
+ 1912  ./shell_exple.sh arg2
+ 1913  ./shell_exple.sh arg1 arg2
+ 1914  ./shell_exple.sh arg1 arg2 arg3
+ 1915  echo $*
+ 1916  nano shell_exple.sh
+ 1917  echo $*
+ 1918  ./shell_exple.sh
+ 1919  ./shell_exple.sh arg1
+ 1920  ./shell_exple.sh arg1 arg2
+ 1921  echo $@
+ 1922  nano shell_exple.sh
+ 1923  ./shell_exple.sh 
+ 1924  ./shell_exple.sh arg1
+ 1925  ./shell_exple.sh arg1 arg2
+ 1926  ls -la
+ 1927  nano shell_exple.sh
+ 1928  ./shell_exple.sh arg1 arg2
+ 1929  echo $?
+ 1930  nano shell_exple.sh
+ 1931  nan
+ 1932  echo $?
+ 1933  ./shell_exple.sh
+ 1934  nano shell_exple.sh
+ 1935  ./shell_exple.sh
+ 1936  ls -la
+ 1937  ./y
+ 1938  echo $?
+ 1939  nano shell_exple.sh
+ 1940  ./shell_exple.sh
+ 1941  nano shell_exple.sh
+ 1942  ./shell_exple.sh
+ 1943  echo $$
+ 1944  nano shell_exple.sh
+ 1945  ./shell_exple.sh
+ 1946  nano shell_exple.sh
+ 1947  echo $$
+ 1948  firefox &
+ 1949  nano shell_exple.sh
+ 1950  ./shell_exple.sh
+ 1951  cd ..
+ 1952  nano git-upload
+ 1953  ls -la
+ 1954  pwd
+ 1955  ls -lat
+ 1956  pwd
+ 1957  ls -lat
+ 1958  cd DMI
+ 1959  ls -lat
+ 1960  nano git-upload
+ 1961  history > history_20170928.txt 
