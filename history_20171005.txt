@@ -1,0 +1,32 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  clone 
+    4  git clone https://github.com/katrin28/DMI
+    5  https://tutorialspoint.com/unix/unix-basic-operators.htm
+    6  ls -l
+    7  ls -lt
+    8  ls -l
+    9  nano shell_operators_.sh
+   10  ./shell_operators_.sh
+   11  ls -l
+   12  ./shell_operators_.sh
+   13  nano shell_operators_.sh
+   14  ./shell_operators_.sh
+   15  nano shell_operators_.sh
+   16  ls -l
+   17  mv shell_operators_.sh DMI/
+   18  cd DMI/
+   19  ls -la
+   20  chmod 744 shell_operators_.sh 
+   21  ls -la
+   22  ./shell_operators_.sh 
+   23  nano shell_operators_.sh
+   24  ./shell_operators_.sh 
+   25  nano shell_operators_.sh
+   26  cat history
+   27  nano shell_operators_.sh
+   28  ./shell_operators_.sh 
+   29  nano shell_operators_.sh
+   30  ./shell_operators_.sh 
+   31  nano shell_operators_.sh
+   32  history > history_20171005.txt
