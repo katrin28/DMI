@@ -1,2 +1,31 @@
-ls-Para
+ls-Parada direktoriju sarakstu
+ls -l-Parada detalizetaku direktoriju sarakstu
+ls -la-Parada detalizetu DIR sarakstu ar piekluves datiem
+cd-Pariet majas direktorija
+cd- - Pariet uz direktoriju, kura bijat pirms tam
+pwd-Parada kur atrodas sistema
+ls -a -Parada sarakstu ar pasleptam failem direktorija
+mkdir- Izveidot jauno direktoriju
+rm-Izdzest failu
+rmdir- Izdzest direktoriju
+firefox-Atvert brauzeri
+history-Atvert jusu vesturi
+history>-Parvietot vesturi
+cat-Parada failu saturu
+mv-Parvieto failu vai direktoriju
+git init-Izveido GIT kratuvi
+git push origin master-Komandas veic izmainas repozitarija
+git remove add original-Komanda veic savienojumu ar repozitariju
+man-Parada komandas in to aprakstu
+nano-Atvert teksta redaktoru
+rm -rf-Izdzes derektoru nejautot atlaujumu
+unname -r-Parada kernel versiju
+whereis-Parada ka atrast noradito failu
+whoami-Parada lietotaju
+who-Parada visus lietotajus, kuri ir sistema
+cp-Kopet direktoriju
+./-Palaiz failu
+PATH=$PATH-Pievieno direktoruju sistemas cela beigas
+echo-Parada uzraksito tekstu
+poweroff-Izsledz datoru no terminala
 
