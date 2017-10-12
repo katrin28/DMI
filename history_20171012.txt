@@ -1,0 +1,142 @@
+    1  VirtualBox --startvm XP
+    2  chromium 
+    3  open firefox
+    4  firefox
+    5  git clone https://github.com/OlegsBrencs/DMI
+    6  ls -la
+    7  #!/bin/sh
+    8  val=`expr 2 + 2`
+    9  echo "Total value : $val"
+   10  nana
+   11  nano
+   12  1 scripts
+   13  nano
+   14  example
+   15  sh shell_examples.sh
+   16  #!/bin/sh
+   17  a=10
+   18  b=20
+   19  val=`expr $a + $b`
+   20  echo "a + b : $val"
+   21  val=`expr $a - $b`
+   22  echo "a - b : $val"
+   23  val=`expr $a \* $b`
+   24  echo "a * b : $val"
+   25  val=`expr $b / $a`
+   26  echo "b / a : $val"
+   27  val=`expr $b % $a`
+   28  echo "b % a : $val"
+   29  if [ $a == $b ]; then    echo "a is equal to b"; fi
+   30  if [ $a != $b ]; then    echo "a is not equal to b"; fi
+   31  nano shell_examples.sh
+   32  ls
+   33  git clone https://github.com/OlegsBrencs/DMI.git
+   34  git clone https://github.com/OlegsBrencs/DMI
+   35  ls-la
+   36  la -la
+   37  git clone https://github.com/OlegsBrencs/DMI
+   38  ls -lt DMI
+   39  ls -l
+   40  mv 1\ scripts DMI/
+   41  mv example DMI/
+   42  ls -l
+   43  cd DMI
+   44  ls -l
+   45  nano shell_operators.sh
+   46  ./shell_operators.sh
+   47  ls -la
+   48  chmod 744
+   49  chmod 744 shell_operators.sh
+   50  ls -la
+   51  ./shell_operators.sh 
+   52  nano shell_operators.sh 
+   53  ./shell_operators.sh 
+   54  nano shell_operators.sh 
+   55  ./shell_operators.sh 
+   56  nano shell_operators.sh 
+   57  ./shell_operators.sh 
+   58  nano shell_operators.sh 
+   59  ./shell_operators.sh 
+   60  nano shell_operators.sh 
+   61  ./shell_operators.sh 
+   62  nano shell_operators.sh 
+   63  ./shell_operators.sh 
+   64  nano shell_operators.sh 
+   65  ./shell_operators.sh 
+   66  nano shell_operators.sh 
+   67  ./shell_operators.sh 
+   68  nano shell_operators.sh 
+   69  ./shell_operators.sh 
+   70  nano shell_operators.sh 
+   71  ./shell_operators.sh 
+   72  nano shell_operators.sh 
+   73  nano git-upload
+   74  history > history_20171011.txt
+   75  ./git upload 2017011_14_10
+   76  ./git-upload
+   77  nano shell_operators.sh 
+   78  ls -ls
+   79  nano apakshdarbi
+   80  nano shell_operators.sh 
+   81  nano shell_operators.sh 5 10
+   82  ./shell_operators.sh 5 10
+   83  ./shell_operators.sh 109 30010
+   84  nano shell_operators.sh 
+   85  ./shell_operators.sh 
+   86  ./shell_operators.sh 1 56
+   87  nano dialogs.sh
+   88  ./dialogs.sh
+   89  nano dialogs.sh
+   90  ./dialogs.sh
+   91  nano dialogs.sh
+   92  ls -la
+   93  chmod 744 dialogs.sh
+   94  ls -la
+   95  ./dialogs.sh
+   96  nano dialogs.sh
+   97  ./dialogs.sh
+   98  nano dialogs.sh
+   99  nano git-upload
+  100  history > history_20171011.txt
+  101  ./git-upload  20171011_15_30
+  102  nano git-upload 
+  103  firefox
+  104  ls -l
+  105  git clone https://github.com/katrin28
+  106  firefox
+  107  git clone https://github.com/katrin28/DMI
+  108  nano
+  109  ls -l
+  110  cd 
+  111  firefox
+  112  pwd
+  113  cd_DMI
+  114  nano shell_relational_operators_comments.sh
+  115  ls -l
+  116  shell_relational_operators_comments.sh
+  117  ./shell_relational_operators_comments.sh
+  118  chnod 744 shell_relational_operators_comments.sh
+  119  chmod 744 shell_relational_operators_comments.sh
+  120  ./shell_relational_operators_comments.sh
+  121  ls -l
+  122  mv shell_relational_operators_comments.sh DMI/
+  123  ls -l
+  124  cd DMI/
+  125  ls -l
+  126  ./shell_relational_operators_comments.sh 
+  127  nano shell_relational_operators_comments.sh
+  128  ./shell_relational_operators_comments.sh 
+  129  nano shell_relational_operators_comments.sh
+  130  ./shell_relational_operators_comments.sh 
+  131* 
+  132  nano shell_relational_operators_comments.sh
+  133  ./shell_relational_operators_comments.sh 
+  134  nano shell_relational_operators_comments.sh
+  135  ./shell_relational_operators_comments.sh 
+  136  nano shell_relational_operators_comments.sh
+  137  ./shell_relational_operators_comments.sh 
+  138  nano shell_relational_operators_comments.sh
+  139  ./shell_relational_operators_comments.sh 
+  140  nano shell_relational_operators_comments.sh
+  141  nano git-upload
+  142  history>history_20171012.txt
