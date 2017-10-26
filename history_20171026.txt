@@ -107,3 +107,6 @@
   107  nano array_loop.sh
   108  nano satistika.sh
   109  history >history.txt
+  110  history > history_20171026.txt
+  111* 
+  112  history > history_20171026.txt
