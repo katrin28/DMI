@@ -1,0 +1,42 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/katrin28/DMI
+    3  ls -l
+    4  cd DMI
+    5  mkdir PYTHON
+    6  ls -l
+    7  cd PYTHON/
+    8  nano hello.py
+    9  whereis python
+   10  nano hello.py
+   11  ./hello.py
+   12  chmod 744 hello.py
+   13  ./hello.py
+   14  nano hello.py
+   15  ./hello.py
+   16  nano hello.py
+   17  ./hello.py
+   18  nano hello.py
+   19  ./hello.py
+   20  nano hello.py
+   21  ./hello.py
+   22  nano hello.py
+   23  ./hello.py
+   24  nano hello.py
+   25  ./hello.py
+   26  nano hello.py
+   27  ./hello.py
+   28  nano hello.py
+   29  ./hello.py
+   30  nano variables.py
+   31  ./variables.py
+   32  chmod 744 variables.py
+   33  ./variables.py
+   34  nano variables.py
+   35  ./variables.py
+   36  cd ..
+   37  cd DMI
+   38  nano giy-upload
+   39  nano git-upload
+   40  history > history_20171109.txt
+   41  git push origin master
+   42  history > history_20171109.txt
