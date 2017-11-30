@@ -1,0 +1,20 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/katrin28/DMI
+    3  cd PYTHON
+    4  cd DMI
+    5  cd PYTHON
+    6  PWD
+    7  pwd
+    8  idle
+    9  idle &
+   10  kill 2737
+   11  l
+   12  cat python_diary.py
+   13  ile &
+   14  idle &
+   15  cd PYTHON
+   16  cd ...
+   17  cs..
+   18  cd..
+   19  cd ..
+   20  history>history_20171130.txt
