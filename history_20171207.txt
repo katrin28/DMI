@@ -1,0 +1,30 @@
+    1  VirtualBox --startvm XP
+    2  matlabn
+    3  matlab
+    4  exit
+    5  git clone https://github.com/katrin28/DMI
+    6  cd DMI
+    7  cd PYTHON
+    8  idle &
+    9  cd ..
+   10  cd..
+   11  cd ..
+   12  history > history_20171207.txt
+   13* 
+   14  history > history_20171207.txt
+   15  cat git-upload
+   16  nano git-upload
+   17  ./git-upload
+   18  history > history_20171207.txt
+   19  nano git-upload
+   20  cd ..
+   21  cd DMI
+   22  history > history_20171207.txt
+   23  ./git-upload 20171207_1730
+   24  history > history_20171207.txt
+   25  pwd
+   26  ls -l
+   27  cd
+   28  ls -l
+   29  cd DMI
+   30  history > history_20171207.txt
