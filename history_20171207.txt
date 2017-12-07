@@ -28,3 +28,5 @@
    28  ls -l
    29  cd DMI
    30  history > history_20171207.txt
+   31  ./git-upload 20171207_18
+   32  history > history_20171207.txt
