@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  git clone https://github.com/katrin28/DMI
+    4  cd DMI
+    5  cd PYTHON
+    6  nano
+    7  & idle
+    8  idle
+    9  cd PYTHON
+   10  cd ..
+   11  history > history_20171214.txt
