@@ -1,0 +1,16 @@
+    1  cd DMI
+    2  cd PYTHON
+    3  nano labors_1
+    4  ./labors_1
+    5  nano labors_1
+    6  ./labors_1
+    7  nano labors_1
+    8  ./labors_1
+    9  nano labors_1
+   10  ./labors_1
+   11  nano labors_1
+   12  ./labors_1
+   13  nano labors_1
+   14  ./labors_1
+   15  history
+   16  history >history20171215.txt
