@@ -1,0 +1,509 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>Gabalveida sign?la mont???</title><meta name="generator" content="MATLAB 9.3"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2018-04-09"><meta name="DC.source" content="lab3.m"><style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outine:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+html { min-height:100%; margin-bottom:1px; }
+html body { height:100%; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#000; line-height:140%; background:#fff none; overflow-y:scroll; }
+html body td { vertical-align:top; text-align:left; }
+
+h1 { padding:0px; margin:0px 0px 25px; font-family:Arial, Helvetica, sans-serif; font-size:1.5em; color:#d55000; line-height:100%; font-weight:normal; }
+h2 { padding:0px; margin:0px 0px 8px; font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#000; font-weight:bold; line-height:140%; border-bottom:1px solid #d6d4d4; display:block; }
+h3 { padding:0px; margin:0px 0px 5px; font-family:Arial, Helvetica, sans-serif; font-size:1.1em; color:#000; font-weight:bold; line-height:140%; }
+
+a { color:#005fce; text-decoration:none; }
+a:hover { color:#005fce; text-decoration:underline; }
+a:visited { color:#004aa0; text-decoration:none; }
+
+p { padding:0px; margin:0px 0px 20px; }
+img { padding:0px; margin:0px 0px 20px; border:none; }
+p img, pre img, tt img, li img, h1 img, h2 img { margin-bottom:0px; } 
+
+ul { padding:0px; margin:0px 0px 20px 23px; list-style:square; }
+ul li { padding:0px; margin:0px 0px 7px 0px; }
+ul li ul { padding:5px 0px 0px; margin:0px 0px 7px 23px; }
+ul li ol li { list-style:decimal; }
+ol { padding:0px; margin:0px 0px 20px 0px; list-style:decimal; }
+ol li { padding:0px; margin:0px 0px 7px 23px; list-style-type:decimal; }
+ol li ol { padding:5px 0px 0px; margin:0px 0px 7px 0px; }
+ol li ol li { list-style-type:lower-alpha; }
+ol li ul { padding-top:7px; }
+ol li ul li { list-style:square; }
+
+.content { font-size:1.2em; line-height:140%; padding: 20px; }
+
+pre, code { font-size:12px; }
+tt { font-size: 1.2em; }
+pre { margin:0px 0px 20px; }
+pre.codeinput { padding:10px; border:1px solid #d3d3d3; background:#f7f7f7; }
+pre.codeoutput { padding:10px 11px; margin:0px 0px 20px; color:#4c4c4c; }
+pre.error { color:red; }
+
+@media print { pre.codeinput, pre.codeoutput { word-wrap:break-word; width:100%; } }
+
+span.keyword { color:#0000FF }
+span.comment { color:#228B22 }
+span.string { color:#A020F0 }
+span.untermstring { color:#B20000 }
+span.syscmd { color:#B28C00 }
+
+.footer { width:auto; padding:10px 0px; margin:25px 0px 0px; border-top:1px dotted #878787; font-size:0.8em; line-height:140%; font-style:italic; color:#878787; text-align:left; float:none; }
+.footer p { margin:0px; }
+.footer a { color:#878787; }
+.footer a:hover { color:#878787; text-decoration:underline; }
+.footer a:visited { color:#878787; }
+
+table th { padding:7px 5px; text-align:left; vertical-align:middle; border: 1px solid #d6d4d4; font-weight:bold; }
+table td { padding:7px 5px; text-align:left; vertical-align:top; border:1px solid #d6d4d4; }
+
+
+
+
+
+  </style></head><body><div class="content"><h1>Gabalveida sign?la mont???</h1><!--introduction--><!--/introduction--><h2>Contents</h2><div><ul><li><a href="#1">Sinuso?da</a></li><li><a href="#2">Line?ri main?gs sign?ls</a></li><li><a href="#3">Konstantes sign?ls</a></li><li><a href="#4">Nulles signals</a></li><li><a href="#5">trok??a sign?ls</a></li><li><a href="#6">Sign?lu apvieno?ana</a></li><li><a href="#8">sinuso&#299;da</a></li><li><a href="#9">Line&#257;ri main&#299;gs sign&#257;ls</a></li><li><a href="#10">konstantes sign&#257;ls</a></li><li><a href="#11">nulles sign&#257;ls</a></li><li><a href="#12">trok&#353;&#326;a sign&#257;ls</a></li><li><a href="#13">sign&#257;lu apvieno&#353;ana</a></li><li><a href="#14">Saja laboratorijas darba es uzinaaju kaa var mainiit signaalus.</a></li></ul></div><h2 id="1">Sinuso?da</h2><p>t_sin = 0:0.01:1; y_sin = A0+A*sin(2*pi*f*(t-delay)) A0 = 0; A =0.5; T = (2.5-1)/6; f = 1/T; delay = 0; y_sin = A0+A*sin(2*pi*f*(t_sin-delay)); plot(t_sin,y_sin)</p><h2 id="2">Line?ri main?gs sign?ls</h2><p>t_saw = 1:0.01:1.5; y_saw = k*t(t_saw-delay) yA = 0; yB = 0.5; tA = -1; tB = 0; delay = 0.125; k = (yA-yB)/(tA-tB)  %l?knes sl?puma koeficents delay - lai noteiktu delayr ir j?skat?s krustpunkts ar t asi (y=0) y_saw = k*(t_saw-delay); plot(t_saw,y_saw)</p><h2 id="3">Konstantes sign?ls</h2><p>t_const = 1.5:0.01:2; y_const = zeroes(1,1)  0.5; y_const = ones(1,1)*0.5; nav korekti, ja t_const izmain?s, tad y_const nemain?sies y_const = zeros(size(t_const)); y_const = zeros(size(t_const)); plot(t_const,y_const)</p><h2 id="4">Nulles signals</h2><p>t_zero = 3.5:0.01:5.5; y_zero = zeros(size(t_zero)) 0.5;</p><h2 id="5">trok??a sign?ls</h2><p>t_noise = 2:0.01:3.5; y_noise = rand(size(t_noise)) * 0.5 - 0.25; plot(t_noise,y_noise)</p><h2 id="6">Sign?lu apvieno?ana</h2><p>t = [t_sin,t_saw,t_const,t_noise,t_zero]; y = [y_sin,y_saw,y_const,y_noise,y_zero]; plot(t,y) ylim([-1 1]) grid on</p><pre class="codeinput"><span class="keyword">function</span> y = lab3_demo_fun(t)
+</pre><pre class="codeinput">t = 0:0.01:5.5;
+<span class="comment">%t_zero = 3:0.01:5;</span>
+t_zerof=(t&gt;=3.5)&amp;(t&lt;=5.5);t_zero = t(t_zerof);
+<span class="comment">%t_sin =0:0.01:1;</span>
+t_sinf=(t&gt;=0)&amp;(t&lt;1);t_sin=t(t_sinf);
+<span class="comment">%t_noise = 2:0.01:3.5;</span>
+t_noisef=(t&gt;=2)&amp;(t&lt;=3.5);t_noise=t(t_noisef);
+<span class="comment">%t_const = 1:0.01:3;</span>
+t_constf=(t&gt;=1.5)&amp;(t&lt;=2);t_const=t(t_constf);
+<span class="comment">%t_saw = 1:0.01:1.5;</span>
+t_sawf = (t&gt;=1)&amp;(t&lt;=1.5);t_saw=t(t_sawf);
+</pre><h2 id="8">sinuso&#299;da</h2><pre class="codeinput"><span class="comment">%y_sin=A0+A*sin(2*pi*f*(t-delay))</span>
+A0=0; A=0.5; T = (2.5-1)/6; f = 1/T;
+delay = 0;
+y_sin=A0+A*sin(2*pi*f*(t_sin-delay));
+<span class="comment">%plot(t_sin,y_sin)</span>
+</pre><h2 id="9">Line&#257;ri main&#299;gs sign&#257;ls</h2><p>k = (yA-yB)/(tA-tB) sl&#299;puma koeficients</p><pre class="codeinput">k = (0 +0.5)/(-1-0);
+delay = 1.25;
+y_saw = k*(t_saw-delay);
+<span class="comment">%plot(t_saw,y_saw)</span>
+</pre><h2 id="10">konstantes sign&#257;ls</h2><pre class="codeinput">y_const = zeros(size(t_const));
+<span class="comment">%plot(t_const,y_const)</span>
+</pre><h2 id="11">nulles sign&#257;ls</h2><pre class="codeinput">y_zero = zeros(size(t_zero))+0.5;
+<span class="comment">%plot(t_zero,y_zero)</span>
+</pre><h2 id="12">trok&#353;&#326;a sign&#257;ls</h2><pre class="codeinput">y_noise = 0.5*rand(size(t_noise))-0.25;
+<span class="comment">%plot(t_noise,y_noise)</span>
+</pre><h2 id="13">sign&#257;lu apvieno&#353;ana</h2><pre class="codeinput">t = [t_sin,t_saw,t_const,t_noise,t_zero];
+y = [y_sin,y_saw,y_const,y_noise,y_zero];
+plot(t,y)
+ylim([-1 1]);
+xlim([0 6]);
+grid <span class="string">on</span>
+</pre><pre class="codeoutput">
+ans =
+
+  Columns 1 through 7
+
+         0    0.1243    0.2409    0.3423    0.4222    0.4755    0.4990
+
+  Columns 8 through 14
+
+    0.4911    0.4524    0.3853    0.2939    0.1841    0.0627   -0.0627
+
+  Columns 15 through 21
+
+   -0.1841   -0.2939   -0.3853   -0.4524   -0.4911   -0.4990   -0.4755
+
+  Columns 22 through 28
+
+   -0.4222   -0.3423   -0.2409   -0.1243   -0.0000    0.1243    0.2409
+
+  Columns 29 through 35
+
+    0.3423    0.4222    0.4755    0.4990    0.4911    0.4524    0.3853
+
+  Columns 36 through 42
+
+    0.2939    0.1841    0.0627   -0.0627   -0.1841   -0.2939   -0.3853
+
+  Columns 43 through 49
+
+   -0.4524   -0.4911   -0.4990   -0.4755   -0.4222   -0.3423   -0.2409
+
+  Columns 50 through 56
+
+   -0.1243   -0.0000    0.1243    0.2409    0.3423    0.4222    0.4755
+
+  Columns 57 through 63
+
+    0.4990    0.4911    0.4524    0.3853    0.2939    0.1841    0.0627
+
+  Columns 64 through 70
+
+   -0.0627   -0.1841   -0.2939   -0.3853   -0.4524   -0.4911   -0.4990
+
+  Columns 71 through 77
+
+   -0.4755   -0.4222   -0.3423   -0.2409   -0.1243   -0.0000    0.1243
+
+  Columns 78 through 84
+
+    0.2409    0.3423    0.4222    0.4755    0.4990    0.4911    0.4524
+
+  Columns 85 through 91
+
+    0.3853    0.2939    0.1841    0.0627   -0.0627   -0.1841   -0.2939
+
+  Columns 92 through 98
+
+   -0.3853   -0.4524   -0.4911   -0.4990   -0.4755   -0.4222   -0.3423
+
+  Columns 99 through 105
+
+   -0.2409   -0.1243    0.1250    0.1200    0.1150    0.1100    0.1050
+
+  Columns 106 through 112
+
+    0.1000    0.0950    0.0900    0.0850    0.0800    0.0750    0.0700
+
+  Columns 113 through 119
+
+    0.0650    0.0600    0.0550    0.0500    0.0450    0.0400    0.0350
+
+  Columns 120 through 126
+
+    0.0300    0.0250    0.0200    0.0150    0.0100    0.0050         0
+
+  Columns 127 through 133
+
+   -0.0050   -0.0100   -0.0150   -0.0200   -0.0250   -0.0300   -0.0350
+
+  Columns 134 through 140
+
+   -0.0400   -0.0450   -0.0500   -0.0550   -0.0600   -0.0650   -0.0700
+
+  Columns 141 through 147
+
+   -0.0750   -0.0800   -0.0850   -0.0900   -0.0950   -0.1000   -0.1050
+
+  Columns 148 through 154
+
+   -0.1100   -0.1150   -0.1200   -0.1250         0         0         0
+
+  Columns 155 through 161
+
+         0         0         0         0         0         0         0
+
+  Columns 162 through 168
+
+         0         0         0         0         0         0         0
+
+  Columns 169 through 175
+
+         0         0         0         0         0         0         0
+
+  Columns 176 through 182
+
+         0         0         0         0         0         0         0
+
+  Columns 183 through 189
+
+         0         0         0         0         0         0         0
+
+  Columns 190 through 196
+
+         0         0         0         0         0         0         0
+
+  Columns 197 through 203
+
+         0         0         0         0         0         0    0.1130
+
+  Columns 204 through 210
+
+   -0.0777   -0.1013   -0.2310    0.0207   -0.1408    0.2353   -0.2263
+
+  Columns 211 through 217
+
+    0.0078   -0.2483    0.1357   -0.1724    0.2081   -0.0630   -0.0050
+
+  Columns 218 through 224
+
+    0.1996   -0.1243    0.0472    0.1587   -0.1933    0.0178    0.1603
+
+  Columns 225 through 231
+
+    0.0708    0.0384    0.0890    0.2332   -0.2227    0.2102   -0.1009
+
+  Columns 232 through 238
+
+    0.0444   -0.1522    0.0561    0.0682   -0.1154   -0.0229    0.1337
+
+  Columns 239 through 245
+
+    0.1564   -0.1857   -0.0339    0.2266   -0.0226   -0.2078    0.0616
+
+  Columns 246 through 252
+
+    0.1607    0.0746   -0.1771   -0.0716   -0.0111    0.0309   -0.1590
+
+  Columns 253 through 259
+
+    0.1371    0.0348    0.2473    0.2457    0.2195   -0.1930   -0.0374
+
+  Columns 260 through 266
+
+   -0.1442    0.1954    0.0184   -0.1981   -0.1237    0.1950   -0.1208
+
+  Columns 267 through 273
+
+    0.1747   -0.1340    0.1107   -0.1732   -0.2136    0.0385   -0.0775
+
+  Columns 274 through 280
+
+    0.2176   -0.2295    0.1945   -0.0840    0.2432   -0.1245   -0.2324
+
+  Columns 281 through 287
+
+    0.1846    0.0525   -0.0098   -0.0532    0.2301   -0.2338   -0.0611
+
+  Columns 288 through 294
+
+    0.1003   -0.1450    0.0168   -0.0700    0.1066   -0.2465    0.0698
+
+  Columns 295 through 301
+
+   -0.1869    0.1373    0.0187    0.0466   -0.1903    0.0559   -0.0053
+
+  Columns 302 through 308
+
+   -0.0607   -0.2443    0.1798    0.1956    0.1272    0.1499   -0.1832
+
+  Columns 309 through 315
+
+   -0.1127    0.2185    0.2478    0.2258   -0.0002    0.0651   -0.2410
+
+  Columns 316 through 322
+
+   -0.0639   -0.2454    0.0234   -0.0388    0.1395    0.1347   -0.1759
+
+  Columns 323 through 329
+
+   -0.1748    0.0182    0.0307   -0.0939   -0.1477    0.0596   -0.0180
+
+  Columns 330 through 336
+
+    0.0577   -0.2469   -0.0079   -0.0780   -0.1886   -0.0100   -0.0317
+
+  Columns 337 through 343
+
+    0.0890    0.0809   -0.1836   -0.1372   -0.1830    0.0183   -0.2238
+
+  Columns 344 through 350
+
+   -0.1221   -0.0271   -0.1489    0.1933    0.0364    0.0539    0.0125
+
+  Columns 351 through 357
+
+    0.0715   -0.1044   -0.0875    0.5000    0.5000    0.5000    0.5000
+
+  Columns 358 through 364
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 365 through 371
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 372 through 378
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 379 through 385
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 386 through 392
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 393 through 399
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 400 through 406
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 407 through 413
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 414 through 420
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 421 through 427
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 428 through 434
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 435 through 441
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 442 through 448
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 449 through 455
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 456 through 462
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 463 through 469
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 470 through 476
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 477 through 483
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 484 through 490
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 491 through 497
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 498 through 504
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 505 through 511
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 512 through 518
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 519 through 525
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 526 through 532
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 533 through 539
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 540 through 546
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Columns 547 through 553
+
+    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000    0.5000
+
+  Column 554
+
+    0.5000
+
+</pre><img vspace="5" hspace="5" src="lab3_01.png" alt=""> <h2 id="14">Saja laboratorijas darba es uzinaaju kaa var mainiit signaalus.</h2><p>Katram signaalam es izmainiju koordinaatus un y un x assim izveidoju limitus. Peec tam ar plot komandu uzzimeeju grafiku.</p><p class="footer"><br><a href="http://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2017b</a><br></p></div><!--
+##### SOURCE BEGIN #####
+%% Gabalveida sign?la mont???
+%% Sinuso?da
+% t_sin = 0:0.01:1;
+% y_sin = A0+A*sin(2*pi*f*(t-delay))
+% A0 = 0; A =0.5; T = (2.5-1)/6; f = 1/T; delay = 0;
+% y_sin = A0+A*sin(2*pi*f*(t_sin-delay));
+% plot(t_sin,y_sin)
+%% Line?ri main?gs sign?ls
+% t_saw = 1:0.01:1.5;
+% y_saw = k*t(t_saw-delay)
+% yA = 0; yB = 0.5; tA = -1; tB = 0; delay = 0.125;
+% k = (yA-yB)/(tA-tB)  %l?knes sl?puma koeficents
+% delay - lai noteiktu delayr ir j?skat?s krustpunkts ar t asi (y=0)
+% y_saw = k*(t_saw-delay);
+% plot(t_saw,y_saw)
+%% Konstantes sign?ls
+% t_const = 1.5:0.01:2;
+% y_const = zeroes(1,1)  0.5;
+% y_const = ones(1,1)*0.5;
+% nav korekti, ja t_const izmain?s, tad y_const nemain?sies
+% y_const = zeros(size(t_const)); y_const = zeros(size(t_const));
+% plot(t_const,y_const)
+%% Nulles signals
+% t_zero = 3.5:0.01:5.5;
+% y_zero = zeros(size(t_zero)) 0.5;
+%% trok??a sign?ls
+% t_noise = 2:0.01:3.5;
+% y_noise = rand(size(t_noise)) * 0.5 - 0.25;
+% plot(t_noise,y_noise)
+%% Sign?lu apvieno?ana
+% t = [t_sin,t_saw,t_const,t_noise,t_zero];
+% y = [y_sin,y_saw,y_const,y_noise,y_zero];
+% plot(t,y)
+% ylim([-1 1])
+% grid on
+function y = lab3_demo_fun(t)
+t = 0:0.01:5.5;
+%t_zero = 3:0.01:5;
+t_zerof=(t>=3.5)&(t<=5.5);t_zero = t(t_zerof);
+%t_sin =0:0.01:1;
+t_sinf=(t>=0)&(t<1);t_sin=t(t_sinf);
+%t_noise = 2:0.01:3.5;
+t_noisef=(t>=2)&(t<=3.5);t_noise=t(t_noisef);
+%t_const = 1:0.01:3;
+t_constf=(t>=1.5)&(t<=2);t_const=t(t_constf);
+%t_saw = 1:0.01:1.5;
+t_sawf = (t>=1)&(t<=1.5);t_saw=t(t_sawf);
+%% sinusoīda
+%y_sin=A0+A*sin(2*pi*f*(t-delay))
+A0=0; A=0.5; T = (2.5-1)/6; f = 1/T;
+delay = 0;
+y_sin=A0+A*sin(2*pi*f*(t_sin-delay));
+%plot(t_sin,y_sin)
+%% Lineāri mainīgs signāls
+% k = (yA-yB)/(tA-tB)
+% slīpuma koeficients
+k = (0 +0.5)/(-1-0);
+delay = 1.25;
+y_saw = k*(t_saw-delay);
+%plot(t_saw,y_saw)
+%% konstantes signāls
+y_const = zeros(size(t_const));
+%plot(t_const,y_const)
+%% nulles signāls
+y_zero = zeros(size(t_zero))+0.5;
+%plot(t_zero,y_zero)
+%% trokšņa signāls
+y_noise = 0.5*rand(size(t_noise))-0.25;
+%plot(t_noise,y_noise)
+%% signālu apvienošana
+t = [t_sin,t_saw,t_const,t_noise,t_zero];
+y = [y_sin,y_saw,y_const,y_noise,y_zero];
+plot(t,y)
+ylim([-1 1]);
+xlim([0 6]);
+grid on
+
+%% Saja laboratorijas darba es uzinaaju kaa var mainiit signaalus.
+% Katram signaalam es izmainiju koordinaatus un y un x assim izveidoju
+% limitus.
+% Peec tam ar plot komandu uzzimeeju grafiku.
+##### SOURCE END #####
+--></body></html>
